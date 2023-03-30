@@ -1,4 +1,4 @@
-name: ciApp
+name: main
 on: push
 jobs:
   build:
